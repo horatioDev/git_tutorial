@@ -4,3 +4,4 @@ List of things accomplished the Software Engineering course:
 2.HTML
 3.CSS
 4.git part 1: git bash
+5. git part 2: Github (pending)
