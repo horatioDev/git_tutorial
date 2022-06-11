@@ -1,0 +1,6 @@
+List of things accomplished the Software Engineering course:
+
+1. Python
+2.HTML
+3.CSS
+4.git part 1: git bash
