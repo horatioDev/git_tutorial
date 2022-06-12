@@ -4,4 +4,11 @@ List of things accomplished the Software Engineering course:
 2.HTML
 3.CSS
 4.git part 1: git bash
+	- mkdir, touch, ls, pwd
+	- git: add (.), commit -m, status, log
+	git: checkout (-b)
 5. git part 2: Github (pending)
+	- git remote -v
+	- git clone
+	- git push
+	- fork
